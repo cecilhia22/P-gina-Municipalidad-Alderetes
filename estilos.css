@@ -1,0 +1,49 @@
+.img1 {
+  width: 50px;
+  height: 50px;
+}
+.carouselExampleControls {
+  height: 80px;
+}
+.carousel-item {
+  height: 80vh;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.buscar1 {
+  display: inline-block;
+  text-align: center;
+}
+
+/* body {
+  padding: 20px;
+} */
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  align-content: space-evenly;
+}
+.card img {
+  height: 200px;
+  object-fit: cover;
+  /* margin: 10px; */
+}
+
+#cd {
+  align-self: flex-end;
+}
+
+.redes{
+  position: sticky;
+  bottom: 20px;
+  right: 0px;
+  
+ 
+}
